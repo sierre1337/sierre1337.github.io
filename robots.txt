@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sierre1337.github.io/sitemap.xml
